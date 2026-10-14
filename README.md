@@ -98,7 +98,7 @@ Los parámetros están en el bloque de configuración de `cava` dentro de `wayba
 
 | Opción | Por defecto | Efecto |
 |---|---|---|
-| `bars` | `8` | Número de barras. Menos barras, menos trabajo. |
+| `bars` | `12` | Número de barras. Menos barras, menos trabajo. |
 | `framerate` | `15` | Fotogramas por segundo. Es lo que más influye en el consumo de `cava` y de Waybar al repintar. |
 | `method` | `pipewire` | Backend de audio. Cámbialo a `pulse` si usas PulseAudio puro. |
 | `sleep_timer` | `1` | Minutos de silencio tras los que `cava` se duerme solo. |
