@@ -22,7 +22,7 @@ echo $$ > "$pidfile"
 
 cat > "$cfg" <<'EOF'
 [general]
-bars = 8
+bars = 12
 framerate = 15
 sleep_timer = 1
 
